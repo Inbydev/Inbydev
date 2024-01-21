@@ -21,7 +21,7 @@ Desarrollador Full-Stack con 1 año y medio de experiencia, creador del proyecto
 <a href="https://twitter.com/Inbydev" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/Inbydev" target="_blank">
+<a href="https://stackoverflow.com/users/23278598/inbydev" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/Inbydev" target="_blank">
