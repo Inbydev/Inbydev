@@ -34,7 +34,7 @@ Desarrollador Full-Stack con 1 año y medio de experiencia, creador del proyecto
 
 
 ## Estadísticas Github
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Inbydev&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Inbydev&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
