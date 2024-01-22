@@ -2,7 +2,7 @@
 Desarrollador Full-Stack con 1 año y medio de experiencia, creador del proyecto InNotesBy, InSuccessBy y Alice AI.  
   
 
-- Actualmente trabajando en: [Alice AI]()  
+- Actualmente trabajando en: ***Alice AI***
   
 
 - Actualmente aprendiendo: Python  
