@@ -35,6 +35,8 @@ Desarrollador Full-Stack con 1 año y medio de experiencia, creador del proyecto
 
 ![](https://leetcard.jacoblin.cool/Inbydev?theme=dark&font=Fira%20Code)
 <br/>
+![](https://metrics.lecoq.io/?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSantiago)
+<br/>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22q7plo6om5cuj6cscpuis42a&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=891fe0&bar_color_cover=true" /></div>
 
