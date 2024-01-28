@@ -1,10 +1,10 @@
 # ¡Hola a todos!
-Desarrollador Full-Stack con 1 año y medio de experiencia, creador del proyecto InNotesBy, InSuccessBy y Alice AI.  
 
+Web Developer with 2 years of experience, creator of the project InNotesBy, InSuccessBy y Alice AI.
 
 - Actualmente trabajando en: ***[InNotesBy](https://github.com/Inbydev/InNotesBy)***
 
-- Actualmente aprendiendo: Python  
+- Actualmente aprendiendo: PHP
 
 <br/>  
 <img src="https://github-readme-stats.vercel.app/api?username=Inbydev&show_icons=true&theme=radical&count_private=true" align="center" />
