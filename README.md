@@ -1,4 +1,4 @@
-# ¡Hola a todos!
+# ¡Hello Everyone!
 
 Web Developer with 2 years of experience, creator of the project InNotesBy, InSuccessBy y Alice AI.
 
@@ -10,7 +10,7 @@ Web Developer with 2 years of experience, creator of the project InNotesBy, InSu
 <img src="https://github-readme-stats.vercel.app/api?username=Inbydev&show_icons=true&theme=radical&count_private=true" align="center" />
 <br/>
 
-## Tecnologías
+## Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
