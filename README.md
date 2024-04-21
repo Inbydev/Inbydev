@@ -4,7 +4,7 @@ Web Developer with 2 years of experience, creator of the project InNotesBy, Imag
 
 - Currently working on: ***[ImageToWebp](https://github.com/Inbydev/ImageToWebp)***
 
-- Currently learning: PHP
+- Currently learning: Flutter
 
 <br/>  
 <img src="https://github-readme-stats.vercel.app/api?username=Inbydev&show_icons=true&theme=radical&count_private=true" align="center" />
