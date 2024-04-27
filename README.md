@@ -1,6 +1,6 @@
 # ¡Hello Everyone!
 
-Web Developer with 2 years of experience, creator of the project InNotesBy, ImageToWebp, InSuccessBy y Alice AI.
+Web Developer, creator of the project InNotesBy, ImageToWebp, InSuccessBy y Alice AI.
 
 - Currently working on: ***[ImageToWebp](https://github.com/Inbydev/ImageToWebp)***
 
