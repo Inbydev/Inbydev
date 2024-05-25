@@ -2,9 +2,9 @@
 
 Web Developer, creator of the project InNotesBy, ImageToWebp, InSuccessBy y Alice AI.
 
-- Currently working on: ***[ImageToWebp](https://github.com/Inbydev/ImageToWebp)***
+- Currently working on: ***[ImageToWebp](https://github.com/Inbydev/InNotesBy)***
 
-- Currently learning: Flutter
+- Currently learning: PHP
 
 <br/>  
 <img src="https://github-readme-stats.vercel.app/api?username=Inbydev&show_icons=true&theme=radical&count_private=true" align="center" />
