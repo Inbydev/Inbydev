@@ -6,8 +6,10 @@ Web Developer, creator of the project InNotesBy, ImageToWebp, InSuccessBy y Alic
 
 - Currently learning: PHP
 
-<br/>  
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Inbydev&show_icons=true&theme=radical&count_private=true" align="center" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=inbydev" align="center" />
 <br/>
 
 ## Technologies
