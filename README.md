@@ -2,9 +2,9 @@
 
 Web Developer, creator of the project InNotesBy, ImageToWebp, InSuccessBy y Alice AI.
 
-- Currently working on: ***[InNotesBy](https://github.com/Inbydev/InNotesBy)***
+- Currently working on: ***[movie-with-you](https://github.com/Inbydev/movie-with-you)***
 
-- Currently learning: PHP
+- Currently learning: SHELL
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Inbydev&show_icons=true&theme=radical&count_private=true" align="center" />
