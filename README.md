@@ -2,7 +2,7 @@
 
 Web Developer, creator of the project InNotesBy, ImageToWebp, movie-with-you, InSuccessBy y Alice AI.
 
-- Currently working on: ***[movie-with-you](https://github.com/Inbydev/movie-with-you)***
+- Currently working on: ***[video-compressor](https://github.com/Inbydev/video-compressor)***
 
 - Currently learning: SHELL
 
