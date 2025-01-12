@@ -4,7 +4,7 @@ Web Developer, creator of the project InNotesBy, ImageToWebp, movie-with-you, In
 
 - Currently working on: ***[Inby.dev](https://github.com/Inbydev/Inby.dev)***
 
-- Currently learning: SHELL
+- Currently learning: Astro
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Inbydev&show_icons=true&theme=radical&count_private=true" align="center" />
