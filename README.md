@@ -9,7 +9,7 @@ Web Developer, creator of the project InNotesBy, ImageToWebp, movie-with-you, In
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Inbydev&show_icons=true&theme=radical&count_private=true" align="center" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=inbydev" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=inbydev&theme=radical" align="center" />
 <br/>
 
 ## Technologies
